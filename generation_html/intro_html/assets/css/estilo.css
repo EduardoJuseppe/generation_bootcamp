@@ -1,0 +1,22 @@
+p{
+    color: rgb(99, 5, 192);
+}
+
+.saludo p{
+    color: rgb(137, 11, 99);
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+#saludoPrueba p{
+    color: brown;
+}
+
+.listaOrdenada{
+    font-size: 1.2rem;
+}
+
+#elementoGrande{
+    font-size: 2rem;
+}
+
