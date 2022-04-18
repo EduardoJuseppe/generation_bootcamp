@@ -20,3 +20,11 @@ p{
     font-size: 2rem;
 }
 
+.saludo{
+    color: brown;
+}
+
+#saludoInicial{
+    color: blueviolet;
+    font-size: 2rem;
+}
