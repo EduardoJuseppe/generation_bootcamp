@@ -35,3 +35,19 @@ h1{
     border-top: 3px solid #f994c1;
     border-bottom: 3px solid #f994c1;
 }
+
+.primerCuadro{
+    background-color: #ee82ee;
+}
+.segundoCuadro{
+    background-color: #ff813e;
+    border-radius: 5px;
+    border: 2px solid #bd561e;
+}
+.tercerCuadro{
+    border-left: 5px solid #fe168a;
+}
+.cuartoCuadro{
+    border-top: 3px solid #f994c1;
+    border-bottom: 3px solid #f994c1;
+}
