@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    background-color: #2d8652;
+}
+
+h1{
+    font-size: 3rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    margin-bottom: 1.5rem;
+}
+
+.uno{
+    color: aliceblue;
+    font-style: italic;
+}
+
+.dos{
+    color: #d1cd9d;
+}
+
+.tres{
+    color: #e79b2a
+}
+
+.cuatro{
+    color: aliceblue;
+    font-style: italic;
+}
+
+.cinco{
+    color: #ce962f;
+}
+
+.seis{
+    color: #b63f4e;
+}
+
+.siete{
+    color: #d9cc9e;
+}
+
+.ocho{
+    color: #bc344e;
+}

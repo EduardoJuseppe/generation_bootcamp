@@ -1,0 +1,42 @@
+/* 
+REM = Tamano de px de nuestro navegador
+EM tamano de fuente del elemento padre
+*/
+body{
+
+    margin: 0;
+} 
+
+*{
+    box-sizing: border-box;
+}
+
+.forma{
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+    font-size: 20px;
+    padding: 5px;
+    text-align: center;
+    text-align:justify;
+}
+
+.color{
+    background-color: rgb(106, 233, 233);
+    border: 1px solid red;
+}
+
+p{
+    display: block;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 5px;
+}
+
+a{
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+}
