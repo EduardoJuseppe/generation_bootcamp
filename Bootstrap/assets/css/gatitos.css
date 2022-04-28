@@ -23,8 +23,9 @@
 .card{
     transform: scale(1.1);
     margin-left: 1rem;
-    margin-bottom: 1rem;
+    margin-bottom: 1rem; 
 }
+
 
 .img-card{
     width: 100%;
@@ -46,10 +47,10 @@
 
 @keyframes animacion{
     0%{
-        transform: translateX(1200px);
+        transform: translateX(300px);
     }
     100%{
-        transform: translateX(450px);
+        transform: translateX(200px);
     }
 }
 
@@ -74,7 +75,6 @@
     visibility: hidden;
     opacity: 0;
     transition: all 600ms;
-    
 }
 
 .contenedor:target{
