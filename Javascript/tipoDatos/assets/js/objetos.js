@@ -157,6 +157,7 @@ for(let i=0; i<cohorte12.length; i++){
     console.log(cohorte12[i].edad);
 }
 
+// includes() nos devuelve un true o un false
 
 
   
