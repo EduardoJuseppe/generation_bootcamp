@@ -12,11 +12,11 @@ console.log(formulario);
 const inputs = document.querySelectorAll('input');
 console.log(inputs);
 
-const nombreError = document.querySelector('#errorNombre');
-const nombreApellido = document.querySelector('#errorApellido');
-const nombreEmail = document.querySelector('#errorEmail');
-const nombrePassword = document.querySelector('#errorPassword');
-const nombreTelefono = document.querySelector('#errorTelefono');
+// const nombreError = document.querySelector('#errorNombre');
+// const nombreApellido = document.querySelector('#errorApellido');
+// const nombreEmail = document.querySelector('#errorEmail');
+// const nombrePassword = document.querySelector('#errorPassword');
+// const nombreTelefono = document.querySelector('#errorTelefono');
 
 // console.log(nombreError);
 // console.log(nombreApellido);
